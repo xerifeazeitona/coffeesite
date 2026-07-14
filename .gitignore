@@ -1,0 +1,5 @@
+# Frontend app and generated artifacts
+frontend/
+frontend/.next/
+frontend/node_modules/
+

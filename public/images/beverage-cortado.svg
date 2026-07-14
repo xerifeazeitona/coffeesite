@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="cortadoTitle">
+  <title id="cortadoTitle">Cortado illustration</title>
+  <defs>
+    <linearGradient id="cortadoGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#b6835f" />
+      <stop offset="100%" stop-color="#6d3b20" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" rx="40" fill="#161414" />
+  <rect x="40" y="40" width="520" height="320" rx="32" fill="url(#cortadoGrad)" />
+  <circle cx="300" cy="210" r="96" fill="#f1d2b1" />
+  <path d="M240 210c25-40 110-40 135 0" fill="none" stroke="#c29676" stroke-width="14" stroke-linecap="round" />
+</svg>
